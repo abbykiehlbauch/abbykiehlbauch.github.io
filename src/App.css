@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&display=swap');
+
 .App {
   text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .App-logo {
@@ -35,4 +38,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.nav{
+  z-index:99;
 }
